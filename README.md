@@ -6,5 +6,5 @@
 <div align="center">
   <a href="https://github.com/adrianovarlotta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianovarlotta&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianovarlotta&layout=compact&langs_count=7&theme=github_dark"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianovarlotta&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
