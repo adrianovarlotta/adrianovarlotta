@@ -11,3 +11,5 @@
   <img align="center" alt="Adriano-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Adriano-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
 </div>
+
+![Snake animation](https://github.com/adrianovarlotta/adrianovarlotta/blob/output/github-contribution-grid-snake.svg)
